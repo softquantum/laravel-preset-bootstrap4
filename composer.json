@@ -17,6 +17,24 @@
           "SoftQuantum\\Bootstrap4Preset\\Bootstrap4PresetServiceProvider"
        ]
       }
+    },
+  "repositories": [
+    {
+      "type": "package",
+      "package": {
+        "name": "softquantum/laravel-preset-bootstrap4",
+        "version": "dev-master",
+        "source": {
+          "url": "git://github.com/softquantum/laravel-preset-bootstrap4.git",
+          "type": "git",
+          "reference": "master"
+        },
+        "autoload": {
+          "psr-4" : {
+            "softquantum\\Bootstrap4Preset\\": "src/"
+          }
+        }
+      }
     }
-
+  ]
 }

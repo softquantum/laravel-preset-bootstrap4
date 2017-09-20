@@ -14,7 +14,7 @@
     "extra": {
       "laravel": {
         "providers": [
-          "SoftQuantum\\Bootstrap4Preset\\Bootstrap4PresetServiceProvider"
+          "Softquantum\\Bootstrap4Preset\\Bootstrap4PresetServiceProvider"
        ]
       }
     }

@@ -3,8 +3,8 @@ window._ = require('lodash');
 /**
  * JQuery is nice but if the only reason to get it is bootstrap, better to have vanilla JS
  * More info here http://thednp.github.io/bootstrap.native/
+ * added to the main layout as there is no version to build with npm yet
  */
-require('bootstrap.native/dist/bootstrap-native-v4');
 
 /**
  * We'll load the axios HTTP library which allows us to easily issue requests

@@ -12,6 +12,7 @@ let mix = require('laravel-mix');
  */
 
 mix.js('resources/assets/js/app.js', 'public/js')
+    .copy('node_modules/bootstrap.native/dist/bootstrap-native-v4.min.js', 'public/js/bootstrap-native-v4.min.js')
     .copy('node_modules/bootstrap.native/dist/polyfill.min.js', 'public/js/polyfill.min.js')
     .sass('resources/assets/sass/app.scss', 'public/css');
 

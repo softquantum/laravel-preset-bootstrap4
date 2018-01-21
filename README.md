@@ -1,9 +1,9 @@
 # Laravel 5.5.x Front-end Preset For Bootstrap 4 beta
 
 Preset for Bootstrap 4 scaffolding on new Laravel 5.5.x project.
-This preset uses bootstrap native to avoid the use of JQuery.
+This preset uses bootstrap native to avoid the use of JQuery and includes pagination stubs.
 
-*Current version*: **Bootstrap 4 beta**
+*Current version*: **Bootstrap 4**
 
 ## Usage
 0. If not a fresh install of Laravel, make sure you committed to your repository or that you have a backup of your files.

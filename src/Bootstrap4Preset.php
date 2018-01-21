@@ -37,8 +37,8 @@ class Bootstrap4Preset extends Preset
     protected static function updatePackageArray(array $packages)
     {
         return [
-            'bootstrap' => '^4.0.0-beta',
-            'bootstrap.native' => '^2.0.14',
+            'bootstrap' => '^4.0.0',
+            'bootstrap.native' => '^2.0.21',
         ] + Arr::except($packages, ['foundation-sites', 'bootstrap-sass', 'bulma', 'uikit']);
     }
 

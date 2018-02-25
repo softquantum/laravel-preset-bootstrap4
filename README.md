@@ -1,3 +1,5 @@
+** Laravel 5.6 comes with Bootstrap 4 stubs so this package is not relevant anymore **
+
 # Laravel 5.5.x Front-end Preset For Bootstrap 4 beta
 
 Preset for Bootstrap 4 scaffolding on new Laravel 5.5.x project.

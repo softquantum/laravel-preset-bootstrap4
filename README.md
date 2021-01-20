@@ -1,3 +1,5 @@
+:warning: THIS PACKAGE IS DEPRECATED, YOU SHOULDN'T BE USING LARAVEL 5.x ANYMORE
+
 ** Laravel 5.6 comes with Bootstrap 4 stubs so this package is not relevant anymore **
 
 # Laravel 5.5.x Front-end Preset For Bootstrap 4 beta
